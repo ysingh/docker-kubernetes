@@ -1,0 +1,3 @@
+# DOCKER-KUBERNETES-EXPRESS-TYPESCRIPT-GRPC
+
+For all the webscale stuff
